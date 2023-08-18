@@ -3,6 +3,13 @@
     "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Women and the world in the 1980s: August 20, 1982- Audre Lorde" ] },
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/canvas",
