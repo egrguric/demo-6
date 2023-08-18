@@ -15,6 +15,24 @@
         "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2731.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://egrguric.github.io/demo-6/annotations/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde-canvas-1-speech.json",
+            "label": {
+              "none": ["Speech"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://egrguric.github.io/demo-6/annotations/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde-canvas-1-pause.json",
+            "label": {
+              "none": ["Pause"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/paintings",

@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://egrguric.github.io/demo-6/annotations/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde-canvas-1-speech.json",
+  "type": "AnnotationPage",
+  "label": "Speech",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "women-and-the-world-in-the-1980s-august-20-1982-audre-lorde-canvas-1-speech-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gertrude Stein speaking",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,8.0"
+        }
+      }
+    }
+  ]
+}
