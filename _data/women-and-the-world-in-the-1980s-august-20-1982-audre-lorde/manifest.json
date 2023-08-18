@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Women and the world in the 1980s: August 20, 1982- Audre Lorde" ] },
+    "items": [
+      {
+        "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2731.0,
+        "items": [
+          {
+            "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/details/pacifica_radio_archives-IZ1349.07",
+                    "duration": 2731.0
+                },
+                "target": "https://egrguric.github.io/demo-6/women-and-the-world-in-the-1980s-august-20-1982-audre-lorde/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
